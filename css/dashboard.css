@@ -1,0 +1,160 @@
+/* bootstrap */
+body{
+
+
+#btbheader{
+    margin-top: 15px;
+    font-size: 40px;
+    align-items: right;
+    margin-right: -300px;
+    border-radius: 10px;
+    
+}
+#profile{
+    margin-top: 30px;
+    color:white;
+    font-size: 25px;
+    float:left;
+    margin-left: 40px;
+}
+
+
+/*row-2 & col-right  */
+
+#btbleft1{ border: none;margin-top:15px; font-size:20px;}
+#btbleft2{border: none; margin-top:5px; font-size:20px;}
+
+
+
+
+
+
+
+#btb1{
+color: white;
+border-radius: 20px;
+border:none;
+padding-right: 145px;
+padding-left:145px;
+padding-top:30px; 
+padding-bottom:30px;
+margin-right:5px;
+font-size: 25px;
+}
+
+#btb2{
+color: white;
+border-radius: 20px;
+border:none;
+padding-right: 145px;
+padding-left:145px;
+padding-top:30px; 
+padding-bottom:30px;
+margin-left:5px;
+font-size: 25px;
+}
+
+#btb3{
+color: white;
+border-radius: 15px;
+padding-right: 170px;
+padding-left:170px;
+padding-top:30px; 
+padding-bottom:30px;
+margin-top: 10px;
+font-size: 15px;
+
+}
+
+#btb4{
+margin-top: 10px;
+color: white;
+border-radius: 15px;
+padding-right: 150px;
+padding-left:150px;
+padding-top:30px; 
+padding-bottom:30px;
+font-size: 15px;
+}
+
+#btb5{
+margin-top: 10px;
+color: white;
+border-radius: 15px;
+padding-right: 160px;
+padding-left:160px;
+padding-top:30px; 
+padding-bottom:30px;
+margin-bottom: 10px;
+font-size: 15px;
+}
+
+#btb6{
+color: white;
+border-radius: 15px;
+padding-right: 170px;
+padding-left:170px;
+padding-top:30px; 
+padding-bottom:30px;
+margin-top: 10px;
+font-size: 15px;
+}
+
+#btb7{
+    margin-top: 10px;
+    color: white;
+    border-radius: 15px;
+    padding-right: 150px;
+    padding-left:150px;
+    padding-top:30px; 
+    padding-bottom:30px;
+    font-size: 15px;
+    }
+
+#btb8{
+    margin-top: 10px;
+    color: white;
+    border-radius: 15px;
+    padding-right: 160px;
+    padding-left:160px;
+    padding-top:30px; 
+    padding-bottom:30px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+/*data box*/
+#RightColLeftSide{
+    background-color: rgb(105, 105, 255);
+    margin-left:10px;
+    border-radius: 10px;
+    
+}
+
+#RightColRightSide{
+    background-color: rgb(157, 182, 78);
+    margin-right:10px;
+    border-radius: 10px;
+}
+
+
+}
+
+
+
+
+
+/*------------screen size--------------*/
+@media only screen and (max-width: 1000px) {
+    body{
+
+        #btbheader{
+            margin-top: 15px;
+            font-size: 40px;
+            align-items: right;
+            margin-right: 10px;
+            font-size: 30px;
+        }
+        #userpf{
+           width:40px;height:40px;
+    }}}
